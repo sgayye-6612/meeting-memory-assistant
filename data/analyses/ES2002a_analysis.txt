@@ -1,0 +1,37 @@
+**SUMMARY:**
+The meeting was a kickoff meeting for a project to design a new remote control. The project manager, Laura, introduced the team and explained the project's objectives. The team discussed the design requirements, including originality, trendiness, and user-friendliness. They also talked about the production cost, selling price, and target market. The meeting concluded with a plan for the next meeting and a discussion on potential features and design considerations for the remote control.
+
+**IMPORTANT POINTS:**
+
+* The project aims to design a new remote control that is original, trendy, and user-friendly.
+* The production cost is expected to be around €12.50, and the selling price is expected to be around €25.
+* The target market is not yet defined, but it is expected to be international.
+* The team discussed the importance of combining multiple functions into a single remote control.
+* They also talked about the potential for additional features, such as a touchscreen or advanced lighting capabilities.
+
+**DECISIONS:**
+
+* There were no explicit decisions made during the meeting, but the team agreed to move forward with the project and assign tasks to each team member.
+* The next meeting is scheduled for 30 minutes, and the team will be working on the design and technical functions of the remote control.
+
+**ACTION ITEMS:**
+
+* Industrial designer (David): Work on the actual design of the remote control.
+* Marketing executive (Andrew): Focus on the requirements and features of the remote control.
+* Project manager (Laura): Send out an email with instructions and next steps.
+
+**OWNERS:**
+
+* David (Industrial designer): Responsible for the design of the remote control.
+* Andrew (Marketing executive): Responsible for the requirements and features of the remote control.
+* Laura (Project manager): Responsible for overseeing the project and assigning tasks.
+
+**DEADLINES:**
+
+* The next meeting is scheduled for 30 minutes.
+* No specific deadlines were mentioned, but the team will need to complete their tasks and report back to Laura by a certain time.
+
+**OPEN QUESTIONS:**
+
+* The team did not discuss any major open questions or concerns during the meeting.
+* However, there were some minor questions and comments raised during the discussion, such as the potential for additional features and the importance of combining multiple functions into a single remote control.
